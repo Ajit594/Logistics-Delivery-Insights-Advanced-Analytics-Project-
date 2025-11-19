@@ -97,5 +97,3 @@ Time-Based Patterns
 ## Notes
 - All values are approximate and derived from the project dataset.
 - Replace sample PBIX files or CSV paths as needed for local environment.
-
-License: Add your preferred license file if sharing publicly.
